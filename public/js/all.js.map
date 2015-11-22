@@ -1,0 +1,1 @@
+{"version":3,"sources":["hello.js","hello2.js"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;ACHA;AACA;AACA;AACA","file":"all.js","sourcesContent":["/**\n * Created by max on 16/11/15.\n */\nconsole.log(\"Hola!\");","/**\n * Created by max on 16/11/15.\n */\nalert(\"Hola!\");"],"sourceRoot":"/source/"}
